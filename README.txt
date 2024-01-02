@@ -1,5 +1,7 @@
 How to start RosemOSP
-1.download a python
-2.in terminal (pip install kyvy)
+1.Download a zip file
+2.extract a file 
+3.download a python
+4.in terminal (pip install kyvy)
 and (pip install certifi)
-3and you ready to make a customs
+5.and you ready to make a customs
